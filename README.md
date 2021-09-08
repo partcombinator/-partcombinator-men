@@ -7,5 +7,8 @@ $ mv partcombinator-server-men server
 $ cd server
 $ npm i
 $ npm run dev
+```
+or 
+```
 $ npm run start
 ```
