@@ -1,0 +1,7 @@
+# Mac
+.DS_store
+
+node_modules
+
+# Vscode
+.vscode
